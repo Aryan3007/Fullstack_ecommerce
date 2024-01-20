@@ -32,7 +32,7 @@ const CartPage = () => {
     }
   };
   return (
-    <div  className="pt-28 h-full w-screen ">
+    <div  className="pt-28 h-screen w-screen ">
     
         <h1 className="text-center text-lg p-2 mb-1">
           {!auth?.user
